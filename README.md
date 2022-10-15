@@ -1,4 +1,4 @@
-## Olá! Eu sou o Hítalo Nascimento, programador Full Stack.
+## Olá! Eu sou o Hítalo Nascimento, Software Developer.
 
 <div align="center">
   <a href="https://github.com/HitaloNasc">
